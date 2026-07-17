@@ -10,7 +10,7 @@
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p><strong>Effective Date:</strong> May 2024</p>
+  <p><strong>Effective Date:</strong> May 2025</p>
   <p>Focura ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Android application.</p>
 
   <h2>1. Information We Collect</h2>
@@ -52,6 +52,6 @@
 
   <h2>8. Contact Us</h2>
   <p><strong>Developer:</strong> Krish Kumar<br>
-  <strong>Email:</strong> [Insert Your Real Email Here]</p>
+  <strong>Email:</strong> [kumarkrish63666@gmail.com]</p>
 </body>
 </html>
