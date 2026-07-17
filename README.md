@@ -1,103 +1,57 @@
 # Focura
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Focura Privacy Policy</title>
-<style>
-body{
-font-family:Arial,sans-serif;
-max-width:900px;
-margin:auto;
-padding:40px;
-line-height:1.7;
-}
-h1,h2{
-color:#222;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Focura Privacy Policy</title>
 </head>
-
 <body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> May 2024</p>
+  <p>Focura ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Android application.</p>
 
-<h1>Privacy Policy</h1>
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>Account Data:</strong> Name, Email Address, User ID, and Profile Photo.</li>
+    <li><strong>App Data:</strong> App restriction settings, friend connections, and premium subscription status.</li>
+    <li><strong>Usage Statistics:</strong> To provide screen time tracking, the app accesses your device's usage statistics. This data is processed locally on your device to show you your usage patterns.</li>
+  </ul>
 
-<p>Effective Date: July 2026</p>
+  <h2>2. Permissions &amp; Special APIs (Crucial)</h2>
+  <ul>
+    <li><strong>Accessibility Service:</strong> Focura uses the Android Accessibility Service API to provide "Strict Mode" and "Website Blocking." This API allows the app to detect when a blocked application or website is opened so it can be closed automatically. We do not collect, store, or transmit any personal information, keystrokes, or screen content via this service.</li>
+    <li><strong>Usage Access:</strong> We require "Usage Access" permission to calculate your daily screen time. This data is used solely for the app’s internal functionality.</li>
+  </ul>
 
-<p>
-Focura ("we", "our", "us") respects your privacy.
-This Privacy Policy explains how we collect, use and protect your information when you use our Android application.
-</p>
+  <h2>3. How We Use Information</h2>
+  <ul>
+    <li>To create and manage your account.</li>
+    <li>To enable "Strict Mode" and social accountability with friends.</li>
+    <li>To process premium features via Google Play Billing.</li>
+    <li>To store your preferences securely in Firebase.</li>
+  </ul>
 
-<h2>Information We Collect</h2>
+  <h2>4. Third-Party Services</h2>
+  <p>We use Google Firebase (Authentication, Firestore, and Storage) to securely manage user data. All data is handled according to Google's privacy standards. We use Google Play Billing for secure payments; we never see or store your credit card information.</p>
 
-<ul>
-<li>Name</li>
-<li>Email Address</li>
-<li>Profile Photo (if provided)</li>
-<li>User ID</li>
-<li>Friend Connections</li>
-<li>App Restriction Settings</li>
-<li>Premium Subscription Status</li>
-</ul>
+  <h2>5. Data Sharing &amp; Security</h2>
+  <ul>
+    <li>We never sell your data.</li>
+    <li>Information (like your name or usage stats) is only shared with friends you explicitly connect with for accountability.</li>
+    <li>We use industry-standard encryption and Firebase Security Rules to protect your data.</li>
+  </ul>
 
-<h2>How We Use Information</h2>
+  <h2>6. Children’s Privacy</h2>
+  <p>Focura is not intended for children under the age of 13. We do not knowingly collect personal information from children.</p>
 
-<ul>
-<li>Create your account.</li>
-<li>Connect you with friends.</li>
-<li>Enable strict mode.</li>
-<li>Store your preferences.</li>
-<li>Provide premium features.</li>
-<li>Improve app performance.</li>
-</ul>
+  <h2>7. Data Deletion</h2>
+  <p>You have the right to delete your account and all associated data at any time via the "Settings" menu in the app or by contacting us at the email below.</p>
 
-<h2>Firebase Services</h2>
-
-<p>
-Focura uses Firebase Authentication, Cloud Firestore and Firebase Storage to securely store user information.
-</p>
-
-<h2>Notifications</h2>
-
-<p>
-Notifications may be sent for friend requests, restriction updates and important account activities.
-</p>
-
-<h2>Payments</h2>
-
-<p>
-Premium subscriptions are processed securely through Google Play Billing.
-Focura does not store your payment card details.
-</p>
-
-<h2>Data Sharing</h2>
-
-<p>
-We never sell your personal information.
-Information is only shared when necessary to provide the app functionality.
-</p>
-
-<h2>Data Security</h2>
-
-<p>
-We use Firebase security rules and industry standard security practices to protect your information.
-</p>
-
-<h2>Your Rights</h2>
-
-<p>
-You may request deletion of your account and associated data at any time.
-</p>
-
-<h2>Contact</h2>
-
-<p>
-Developer: Krish Kumar<br>
-Email: YOUR_EMAIL@gmail.com
-</p>
-
+  <h2>8. Contact Us</h2>
+  <p><strong>Developer:</strong> Krish Kumar<br>
+  <strong>Email:</strong> [Insert Your Real Email Here]</p>
 </body>
 </html>
