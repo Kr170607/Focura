@@ -1,1 +1,103 @@
 # Focura
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Focura Privacy Policy</title>
+<style>
+body{
+font-family:Arial,sans-serif;
+max-width:900px;
+margin:auto;
+padding:40px;
+line-height:1.7;
+}
+h1,h2{
+color:#222;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Effective Date: July 2026</p>
+
+<p>
+Focura ("we", "our", "us") respects your privacy.
+This Privacy Policy explains how we collect, use and protect your information when you use our Android application.
+</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Name</li>
+<li>Email Address</li>
+<li>Profile Photo (if provided)</li>
+<li>User ID</li>
+<li>Friend Connections</li>
+<li>App Restriction Settings</li>
+<li>Premium Subscription Status</li>
+</ul>
+
+<h2>How We Use Information</h2>
+
+<ul>
+<li>Create your account.</li>
+<li>Connect you with friends.</li>
+<li>Enable strict mode.</li>
+<li>Store your preferences.</li>
+<li>Provide premium features.</li>
+<li>Improve app performance.</li>
+</ul>
+
+<h2>Firebase Services</h2>
+
+<p>
+Focura uses Firebase Authentication, Cloud Firestore and Firebase Storage to securely store user information.
+</p>
+
+<h2>Notifications</h2>
+
+<p>
+Notifications may be sent for friend requests, restriction updates and important account activities.
+</p>
+
+<h2>Payments</h2>
+
+<p>
+Premium subscriptions are processed securely through Google Play Billing.
+Focura does not store your payment card details.
+</p>
+
+<h2>Data Sharing</h2>
+
+<p>
+We never sell your personal information.
+Information is only shared when necessary to provide the app functionality.
+</p>
+
+<h2>Data Security</h2>
+
+<p>
+We use Firebase security rules and industry standard security practices to protect your information.
+</p>
+
+<h2>Your Rights</h2>
+
+<p>
+You may request deletion of your account and associated data at any time.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+Developer: Krish Kumar<br>
+Email: YOUR_EMAIL@gmail.com
+</p>
+
+</body>
+</html>
