@@ -48,7 +48,7 @@
   <p>Focura is not intended for children under the age of 13. We do not knowingly collect personal information from children.</p>
 
   <h2>7. Data Deletion</h2>
-  <p>You have the right to delete your account and all associated data at any time via the "Settings" menu in the app or by contacting us at the email below.</p>
+  <p>You have the right to delete your account and all associated data at any time via the "Privacy Policy option in profile page" menu in the app or by contacting us at the email below.</p>
 
   <h2>8. Contact Us</h2>
   <p><strong>Developer:</strong> Krish Kumar<br>
